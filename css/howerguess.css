@@ -440,3 +440,16 @@ p{
         border-left:3px solid black ;
     }
 }
+@media (min-width: 651px) {
+    .con{padding: 160px 60px;
+
+    }}
+@media (min-width: 100px) and (max-width: 650px) {
+    .con{
+    
+        padding: 10px; 
+        padding-top:160px;
+        padding-bottom: 160px;
+        
+
+    }}
